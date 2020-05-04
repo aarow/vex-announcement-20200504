@@ -542,6 +542,17 @@
 		"oAP": "/assets/webfonts/fa-solid-900.woff2",
 		"oF": 0
 		},
+	"/images/cobra.jpg": {
+		"ft": 16384,
+		"iS": 256587,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/cobra.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/images/old-studio.jpg": {
 		"ft": 16384,
 		"iS": 463348,
@@ -595,6 +606,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/images/sitting.jpg": {
+		"ft": 16384,
+		"iS": 369279,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/sitting.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/woman-wearing-white-sleeveless-top-3094230.jpg": {
